@@ -2,6 +2,11 @@
 
 PDF 문서를 페이지와 청크 단위로 처리하고, Neo4j에 문서 구조와 임베딩을 저장한 뒤, Neo4j Vector Search와 LLM을 사용해 질문에 답하는 미니 GraphRAG 프로젝트입니다.
 
+## Documentation
+
+- [User Manual](docs/USER_MANUAL.md): 프로젝트 목적, 용도, 설치, 사용법, 문제 해결 가이드
+- [Development Notes](docs/DEVELOPMENT_NOTES.md): 개발 진행 상황, 설계 결정, 파일별 역할, 다음 작업 목록
+
 ## Architecture
 
 ```text
